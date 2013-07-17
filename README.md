@@ -1,4 +1,4 @@
-TinySoc
+BridgerSoc
 =============
 
 PatternAgents BridgerSoc - Control your World!
