@@ -38,7 +38,7 @@ in which both the open source software distribution mechanism and traditional co
 
 Open Source Projects:        
 
-If you are developing and distributing open source applications under the GNU General Public License version 2 (GPLv3), 
+If you are developing and distributing open source applications under the GNU General Public License version 3 (GPLv3), 
 as published by the Free Software Foundation, then you are free to use the PatternAgents hardware/software under the GPLv3 license. 
 Please note that GPLv3 Section 3(b) requires that all modifications to the original code as well as all Derivative Works 
 must also be released under the terms of the GPLv3 open source license.
