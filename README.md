@@ -3,8 +3,8 @@ BridgerSoc
 
 PatternAgents BridgerSoc - Control your World!
 
-[![PatternAgents BridgerSoc](http://www.patternagent.com/img/projects/BridgerSoc/BridgerSoc_model.png)  
-*PatternAgents BridgerSoc*](http://www.patternagent.com/projects/BridgerSoc.html)
+[![PatternAgents BridgerSoc](http://www.patternagents.com/img/projects/BridgerSoc/BridgerSoc_model.png)  
+*PatternAgents BridgerSoc*](http://www.patternagents.com/projects/BridgerSoc.html)
 
 PatternAgents The BridgerSoc uses a Programmable System-on-Chip that can read read inputs from sensors, 
 switches, potentiometers, or other analog inputs and use those inputs to control the outputs of your choice.
@@ -52,7 +52,7 @@ All PatternAgents commercial licenses expressly supersede the GPLv3 open source 
 This means that when you license the PatternAgents software under a commercial license, 
 you specifically do not use the software under the open source license and therefore you are not subject to any of its terms.
         
-If you would like to use our designs for your own personal or educational use, have at at! 
+If you would like to use our designs for your own personal or educational use, have at it! 
 
 Our public design repository is available at <a href="https://github.com/patternagents">Github</a>.
 
