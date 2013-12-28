@@ -1,8 +1,6 @@
 BridgerSoc
 =============
 
-PatternAgents BridgerSoc - Control your World!
-
 [![PatternAgents BridgerSoc](http://www.patternagents.com/img/projects/BridgerSoc/BridgerSoc_model.png)  
 *PatternAgents BridgerSoc*](http://www.patternagents.com/projects/BridgerSoc.html)
 
